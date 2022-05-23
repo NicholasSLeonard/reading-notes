@@ -1,7 +1,7 @@
 # My Page
 
 Hi, my name is Nicholas Leonard. I am a student working out of the Cayman Islands, studying to become a professional programmer.
-I can be contacted at my [Email](nicholas_leonard@live.com) if you have questions about me or my work.
+I can be contacted at <nicholas_leonard@live.com> if you have questions about me or my work.
 
 ## Growth Mindset
 
