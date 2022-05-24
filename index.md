@@ -10,5 +10,5 @@ My Portfolio: [Here](https://github.com/NicholasSLeonard)
 ## Table of Contents
 
  1. [Class 1]()
- 2. [Class 2](https://github.com/NicholasSLeonard/reading-notes/blob/main/Class2-Reading-Assignment.md)
- 3. [Class 3](https://github.com/NicholasSLeonard/reading-notes/blob/main/Class3.md)
+ 2. [Class 2](https://github.com/NicholasSLeonard/reading-notes/blob/main/Reading%20Notes/Class2-Reading-Assignment.md)
+ 3. [Class 3](https://github.com/NicholasSLeonard/reading-notes/blob/main/Reading%20Notes/Class3.md)
