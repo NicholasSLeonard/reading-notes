@@ -20,6 +20,7 @@ There are several popular ones to choose from, such as:
 
 A Command Line Interface (CLI) is a way that you can interact with a computer using only commands.
 CLIs can navigate directorys, create files, delete files, and much more.
+Commands are usually entered one at a time, one per line. The enter key is then pressed to execute the commands.
 Some common commands are:
 
  - pwd \- shows your current location
