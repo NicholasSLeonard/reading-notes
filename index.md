@@ -18,7 +18,7 @@ My Portfolio: [Here](https://github.com/NicholasSLeonard)
  7. [Class 7](https://nicholassleonard.github.io/reading-notes/Reading%20Notes/Class7)
  8. [Class 8](https://nicholassleonard.github.io/reading-notes/Reading%20Notes/Class8)
 
- ## Table of Contents Code 201
+## Table of Contents Code 201
 
  1. [Class 1](#)
  2. [Class 2](#)
